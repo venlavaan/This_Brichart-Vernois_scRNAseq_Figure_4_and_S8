@@ -1,6 +1,6 @@
 
 ######
-#### "Type 1 and type 2 dendritic cell subsets are sufficient to maintain intestinal immune tolerance via integrin αvβ8-mediated TGF-β activation" by This and Brichart-Vernois et al. 
+#### "Type 1 and type 2 dendritic cell subsets are sufficient to maintain intestinal immune tolerance via integrin αvβ8-mediated TGF-β activation" by This and Brichart-Vernos et al. 
 #### Script related to analysis of Figure 4 and Supplemental Figure S8
 #### Author: Venla Väänänen (venlan@sund.ku.dk)
 
